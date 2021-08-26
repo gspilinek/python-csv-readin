@@ -1,6 +1,9 @@
 # run with "py csv-readin.py <csv file name> <num of records> <num of fields>"
 # if there is an initial line in the csv to indicate the fields add 1 to num of records
 
+# written by Gerald Spilinek
+# code snippet to reuse that allows csv files to be read in
+
 import sys
 
 
